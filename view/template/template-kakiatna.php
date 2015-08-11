@@ -10,9 +10,9 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> 
 <script type="text/javascript" src="/public/js/cufon-yui.js"></script>
 <script type="text/javascript" src="/pubic/js/Clarendon_LT_Std_700.font.js"></script>
-<script type="text/javascript">
+<!--script type="text/javascript">
 	Cufon.replace('h1,h3', {fontFamily: 'Clarendon LT Std', hover:true})
-</script>
+</script-->
 </head>
 <body>
 <div id="shim"></div>
