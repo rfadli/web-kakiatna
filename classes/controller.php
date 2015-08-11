@@ -45,7 +45,9 @@ class controller
 		//$this->css->add('http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800|Open+Sans+Condensed:300,700');
 
 		$this->js = new js;
-
+		
+		$this->js->add("/pubic/js/Clarendon_LT_Std_700.font.js");
+		$this->js->add("/public/js/cufon-yui.js");
 		$this->js->add("/public/js/jquery/jquery.js");
 		$this->js->add("/public/js/mediaelement/mediaelement-and-player.min.js");
 		$this->js->add("/public/js/mediaelement/wp-mediaelement.js");
